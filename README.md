@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RamDurgaSai
-- 👀 I’m interested in ... Android Development
-- 🌱 I’m currently learning ... regular expressions, web scraping, sqlite
+- 👀 I’m interested in ... Data Science and Web Development
+- 🌱 I’m currently learning ... Django, Machine Learning
 - 💞️ I’m looking to collaborate on ... OpenSource Projects
 - 📫 How to reach me ... @RamDurgaSai (Telegram)
 
