@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ram Durga Sai</h1>
 <h3 align="center">A passionate python developer</h3>
 
-- 🌱 I’m currently learning **Machine Learning,Django**
+- 🌱 I’m currently learning **FastApi, Flask, DJango**
 
 - 👨‍💻 All of my projects are available at [Github](www.github.com/RamDurgaSai)
 
-- 💬 Ask me about **Qt, Selenium**
+- 💬 Ask me about **Qt, FastApi**
 
 - 📫 How to reach me **ramdurgasais@gmail.com**
 
