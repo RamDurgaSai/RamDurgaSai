@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](www.github.com/RamDurgaSai)
 
-- 💬 Ask me about **Qt, FastApi**
+- 💬 Ask me about **Python, FastApi**
 
 - 📫 How to reach me **ramdurgasais@gmail.com**
 
