@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ram Durga Sai</h1>
 <h3 align="center">A passionate python developer</h3>
 
-- 🌱 I’m currently learning **FastApi, Flask, DJango**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [Github](www.github.com/RamDurgaSai)
 
-- 💬 Ask me about **Python, FastApi**
+- 💬 Ask me about **Python, FastApi & Flask**
 
 - 📫 How to reach me **ramdurgasais@gmail.com**
 
